@@ -1,6 +1,4 @@
-// 1. WAP to calculate average of three integers. Numbers are given by the user
-
-#include<stdio.h>
+#include<stdio
 int main()
 {
     int a,b,c;
@@ -8,7 +6,7 @@ int main()
     printf("Enter three integers:\n");
     scanf("%d %d %d",&a,&b,&c);
 
-    avg = (a + b + c) / 3.0;    // 3.0 is bcz int/float = float
+    avg = (a + b + c) / 3.0;   
 
     printf("The average of three integers is %f",avg);
     return 0;
