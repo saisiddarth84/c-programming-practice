@@ -1,4 +1,4 @@
-5.WAP to swap values of two int variables without using third variable.
+4.WAP to swap values of two int variables without using third variable.
 #include<stdio.h>
 int main(){
     int a,b;
